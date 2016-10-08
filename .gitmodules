@@ -1,0 +1,3 @@
+[submodule "StandUpBackend"]
+	path = StandUpBackend
+	url = https://github.com/anuraagy/StandUpBackend
